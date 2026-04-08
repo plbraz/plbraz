@@ -1,6 +1,6 @@
 ## Hello!
 
-- 🔭 Intern at Claro Brasil.
+- 🔭 Junior Developer at Claro Brasil.
 - 🌱 Studying Spring Boot.
 - 🤔 Looking for Angular content in my free time.
 - 📫 Contact me at: pluiz.braz@gmail.com
