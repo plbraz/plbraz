@@ -2,7 +2,7 @@
 
 - 🔭 Junior Developer at Claro Brasil.
 - 🌱 Studying Spring Boot.
-- 🤔 Looking for Angular content in my free time.
+- 🤔 Looking for AWS content in my free time.
 - 📫 Contact me at: pluiz.braz@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I’ve always wanted to eat dinosaur nuggets.
