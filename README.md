@@ -9,15 +9,13 @@
 - 💗 Passionate about Java.
 <div align="center">
   <a href="https://github.com/plbraz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=plbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""Pedro Braz's Stats"""/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plbraz&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brazstark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""Pedro Braz's Stats"""/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazstark&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 <br>
  <div>    
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
